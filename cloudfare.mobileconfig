@@ -23,7 +23,7 @@
 								<string>*.neverssl.com</string>
 								<string>neverssl.com</string>
            
-                                                                		<string>google.com</string>
+                                                                		<string>*.shaw.ca</string>
 							</array>
 
 			</dict>
@@ -61,7 +61,7 @@
 								<string>*.neverssl.com</string>
 								<string>neverssl.com</string>
            
-                                                                		<string>google.com</string>
+                                                                		<string>*.shaw.ca</string>
 							</array>
 
 			</dict>
