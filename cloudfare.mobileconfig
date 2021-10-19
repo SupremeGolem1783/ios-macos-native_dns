@@ -24,8 +24,6 @@
           <key>OnDemandRules</key>
                 <array>
                     <dict>
-                        <key>Action</key>
-                        <string>Connect</string>
                         <key>SSIDMatch</key>
                         <array>
                             <string>ShawGo</string>
@@ -34,6 +32,10 @@
                             <string>ShawMobileHotspot</string>
 
                         </array>
+
+                        <key>Action</key>
+                        <string>Connect</string>
+
                     </dict>
                     <dict>
                         <key>Action</key>
