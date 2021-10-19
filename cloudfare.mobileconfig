@@ -12,13 +12,9 @@
 
 				<key>ServerAddresses</key>
 				<array>
-					<string>2176:4700:4530::1791</string>
-					<string>3426:4700:4530::1081</string>
-					<string>174.222.181.164</string>
-					<string>142.126.885.828</string>
-				</array>
+			       </array>
 				<key>ServerURL</key>
-				<string>https://clouryooppsjwjwhwjejej7272771717727373737737.com/uwwuwwi7373</string>
+				<string>clouryooppsjwjwhwjejej7272771717727373737737.com/uwwuwwi7373</string>
 
 			</dict>
 			<key>Name</key>
