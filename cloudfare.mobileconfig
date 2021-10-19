@@ -14,7 +14,7 @@
 				<array>
 			       </array>
 				<key>ServerURL</key>
-				<string>clouryooppsjwjwhwjejej7272771717727373737737.com/uwwuwwi7373</string>
+				<string>cloudflare-dns.com</string>
 
 			</dict>
 			<key>Name</key>
@@ -72,7 +72,7 @@
 					<string>142.126.885.828</string>
 				</array>
 				<key>ServerURL</key>
-				<string>https://clouryooppsjwjwhwjejej7272771717727373737737.com/uwwuwwi7373</string>
+				<string>https://cloudflare-dns.com/dns-query</string>
 			</dict>
 			<key>Name</key>
 			<string>Cloudflare DNS over HTTPS</string>
