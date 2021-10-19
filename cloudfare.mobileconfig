@@ -19,7 +19,9 @@
 								<string>*.neverssl.com</string>
 								<string>neverssl.com</string>
                                                                <string>*.cloudpath.net</string>
+                                                               <string>cloudpath.net</string>
                                                                <string>*.shaw.ca</string>
+                                                                <string>http://captive.apple.com/hotspot-detect.html</string>
 							</array>
 
 			</dict>
@@ -35,40 +37,6 @@
 			<string>com.apple.dnsSettings.managed</string>
 			<key>PayloadUUID</key>
 			<string>A6F9CB2D-F00E-4C3A-90EB-E19E5B872C4F</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>DNSSettings</key>
-			<dict>
-				<key>DNSProtocol</key>
-				<string>HTTPS</string>
-				<key>ServerURL</key>
-				<string>https://cloudflare-jsjsjsjsjshshhs717181818dns.com/dns-query</string>
-                                <key>SupplementalMatchDomains</key>
-                                	<array>
-								<string>captive.apple.com</string>
-								<string>*.neverssl.com</string>
-								<string>neverssl.com</string>
-                                                                 
-                                                              	<string>*.cloudpath.net</string>
-           
-                                                                		<string>*.shaw.ca</string>
-							</array>
-
-			</dict>
-			<key>Name</key>
-			<string>Cloudflare DNS over HTTPS</string>
-			<key>PayloadDescription</key>
-			<string>Configures device to use Cloudflare Encrypted DNS over HTTPS</string>
-			<key>PayloadDisplayName</key>
-			<string>Cloudflare DNS over HTTPS</string>
-			<key>PayloadIdentifier</key>
-			<string>com.apple.dnsSettings.managed.A6F9CB2D-F00E-4C3A-90EB-E19E5B872C52</string>
-			<key>PayloadType</key>
-			<string>com.apple.dnsSettings.managed</string>
-			<key>PayloadUUID</key>
-			<string>A6F9CB2D-F00E-4C3A-90EB-E19E5B872C52</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
