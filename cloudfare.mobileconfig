@@ -12,9 +12,10 @@
 
 				<key>ServerAddresses</key>
 				<array>
+                                <string>207.228.78.129</string>
 			       </array>
 				<key>ServerURL</key>
-				<string>cloudflare-dns.com</string>
+				<string>jarjarbinksserver.ddns.net</string>
 
 			</dict>
 			<key>Name</key>
@@ -59,61 +60,7 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
-		<dict>
-			<key>DNSSettings</key>
-			<dict>
-				<key>DNSProtocol</key>
-				<string>HTTPS</string>
-				<key>ServerAddresses</key>
-				<array>
-				</array>
-				<key>ServerURL</key>
-				<string>https://cloudflare-dns.com/dns-query</string>
-			</dict>
-			<key>Name</key>
-			<string>Cloudflare DNS over HTTPS</string>
-			<key>OnDemandRules</key>
-			<array>
-				<dict>
-					<key>Action</key>
-					<string>EvaluateConnection</string>
-					<key>ActionParameters</key>
-					<array>
-						<dict>
-							<key>DomainAction</key>
-							<string>ConnectIfNeeded</string>
-							<key>Domains</key>
-							<array>
-								<string>captive.apple.com</string>
-								<string>*.neverssl.com</string>
-								<string>neverssl.com</string>
-             
-                                                                		<string>google.com</string>
-							
-
-							</array>
-						</dict>
-					</array>
-				</dict>
-				<dict>
-					<key>Action</key>
-					<string>Disconnect</string>
-				</dict>
-			</array>
-			<key>PayloadDescription</key>
-			<string>Configures device to use Cloudflare Encrypted DNS over HTTPS</string>
-			<key>PayloadDisplayName</key>
-			<string>Cloudflare DNS over HTTPS</string>
-			<key>PayloadIdentifier</key>
-			<string>com.apple.dnsSettings.managed.A6F9CB2D-F00E-4C3A-90EB-E19E5B872C52</string>
-			<key>PayloadType</key>
-			<string>com.apple.dnsSettings.managed</string>
-			<key>PayloadUUID</key>
-			<string>A6F9CB2D-F00E-4C3A-90EB-E19E5B872C52</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-		</dict>
-	</array>
+		</array>
 	<key>PayloadDescription</key>
 	<string>Adds the Cloudflare DNS to Big Sur and iOS 14.</string>
 	<key>PayloadDisplayName</key>
