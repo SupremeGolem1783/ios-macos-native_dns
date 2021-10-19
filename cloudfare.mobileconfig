@@ -18,8 +18,8 @@
 								<string>captive.apple.com</string>
 								<string>*.neverssl.com</string>
 								<string>neverssl.com</string>
-           
-                                                                		<string>*.shaw.ca</string>
+                                                               <string>*.cloudpath.net</string>
+                                                               <string>*.shaw.ca</string>
 							</array>
 
 			</dict>
@@ -50,6 +50,8 @@
 								<string>captive.apple.com</string>
 								<string>*.neverssl.com</string>
 								<string>neverssl.com</string>
+                                                                 
+                                                              	<string>*.cloudpath.net</string>
            
                                                                 		<string>*.shaw.ca</string>
 							</array>
