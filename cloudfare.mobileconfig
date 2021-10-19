@@ -24,16 +24,12 @@
           <key>OnDemandRules</key>
                 <array>
                     <dict>
-                        <key>Action</key>
-                        <string>Connect</string>
-                        <key>SSIDMatch</key>
-                        <array>
-                            <string>ShawGo</string>
-                            <string>ShawOpen</string>
-                            <string>ShawPasspoint</string>
-                            <string>ShawMobileHotspot</string>
 
-                        </array>
+	      			<key>InterfaceTypeMatch</key>
+	     			<string>WiFi</string>
+	       			<key>Action</key>
+	       			<string>Connect</string>
+
                     </dict>
                     <dict>
                         <key>Action</key>
