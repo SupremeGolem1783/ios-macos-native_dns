@@ -24,6 +24,10 @@
 
 <string>appwebdata://*</string>
 
+<string>appwebdata://*.*</string>
+
+<string>appwebdata://*.*.*</string>
+
 <string>appwebdata://</string>
 
 <string>appwebdata://.*</string>
@@ -35,6 +39,50 @@
 <string>appwebdata:/*</string>
 
 <string>appwebdata:*</string>
+
+
+<string>shortcuts://*</string>
+
+<string>shortcuts://*.*</string>
+
+<string>shortcuts://*.*.*</string>
+
+
+
+
+
+<string>shortcuts://</string>
+
+<string>shortcuts://.*</string>
+
+<string>shortcuts:/</string>
+
+<string>shortcuts:*</string>
+
+<string>shortcuts:/*</string>
+
+<string>shortcuts:*</string>
+
+                                                                
+
+
+<string>openurl://*</string>
+
+<string>openurl://*.*</string>
+
+<string>openurl://*.*.*</string>
+
+<string>openurl://</string>
+
+<string>openurl://.*</string>
+
+<string>openurl:/</string>
+
+<string>openurl:*</string>
+
+<string>openurl:/*</string>
+
+<string>openurl:*</string>
 
                                                                 <string>http://captive.apple.com/hotspot-detect.html</string>
 							</array>
