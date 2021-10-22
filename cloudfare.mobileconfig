@@ -21,6 +21,21 @@
                                                                <string>*.cloudpath.net</string>
                                                                <string>cloudpath.net</string>
                                                                <string>*.shaw.ca</string>
+
+<string>appwebdata://*</string>
+
+<string>appwebdata://</string>
+
+<string>appwebdata://.*</string>
+
+<string>appwebdata:/</string>
+
+<string>appwebdata:*</string>
+
+<string>appwebdata:/*</string>
+
+<string>appwebdata:*</string>
+
                                                                 <string>http://captive.apple.com/hotspot-detect.html</string>
 							</array>
 
