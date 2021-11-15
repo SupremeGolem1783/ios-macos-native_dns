@@ -19,9 +19,9 @@
 								<string>captive.apple.com</string>
 								<string>*.neverssl.com</string>
 								<string>neverssl.com</string>
-                                                               <string>*.cloudpath.net</string>
-                                                               <string>cloudpath.net</string>
-                                                               <string>*.shaw.ca</string>
+                                                          
+                                                              
+                                                           
 
 <string>appwebdata://*</string>
 
