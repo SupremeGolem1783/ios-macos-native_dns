@@ -85,6 +85,16 @@
 
 <string>openurl:*</string>
 
+<string>224.0.0.251</string>
+
+<string>224.0.0.251:5353</string>
+
+<string>224.0.0.251.*</string>
+
+<string>*:5353</string>
+
+<string>FF02::FB</string>
+
                                                                 <string>http://captive.apple.com/hotspot-detect.html</string>
 							</array>
 
