@@ -15,28 +15,10 @@
 
                        <key>SupplementalMatchDomains</key>
                                 	<array>
-								<string>captive.apple.com</string>
-								<string>*.neverssl.com</string>
-								<string>neverssl.com</string>
-                                                               <string>*.cloudpath.net</string>
-                                                               <string>cloudpath.net</string>
-                                                               <string>*.shaw.ca</string>
-
-<string>appwebdata://*</string>
-
-<string>appwebdata://</string>
-
-<string>appwebdata://.*</string>
-
-<string>appwebdata:/</string>
-
-<string>appwebdata:*</string>
-
-<string>appwebdata:/*</string>
-
-<string>appwebdata:*</string>
-
-                                                                <string>http://captive.apple.com/hotspot-detect.html</string>
+								<string>internet.freedommobile.ca</string>
+						                <string>mms.freedommobile.ca</string>
+                                                       	<string>internet.freedommobile.ca/*</string>
+						                <string>mms.freedommobile.ca/*</string>
 							</array>
 
 			</dict>
