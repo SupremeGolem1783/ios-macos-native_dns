@@ -17,11 +17,8 @@
                        <key>SupplementalMatchDomains</key>
                                 	<array>
 								
-								<string>*.neverssl.com</string>
-								<string>neverssl.com</string>
-                                                               <string>*.cloudpath.net</string>
-                                                               <string>cloudpath.net</string>
-                                                               <string>*.shaw.ca</string>
+								<string>xcap.ims.mnc490.mcc302.pub.3gppnetwork.org</string>
+				
 							</array>
 
 			</dict>
