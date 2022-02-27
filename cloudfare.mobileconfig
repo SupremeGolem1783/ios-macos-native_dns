@@ -12,7 +12,7 @@
 
 
 				<key>ServerURL</key>
-				<string>https://localhost:0</string>
+				<string>https://localhost</string>
 
                        <key>SupplementalMatchDomains</key>
                                 	<array>
