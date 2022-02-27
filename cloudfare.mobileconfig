@@ -18,6 +18,13 @@
                                 	<array>
 								<string>captive.apple.com</string>
 								<string>302490FQDN-AKA.com</string>
+
+<string>302491FQDN-AKA.com</string>
+
+<string>302740FQDN-AKA.com</string>
+
+<string>302220FQDN-AKA.com</string>
+
 <string>http://aliasredirect.net/proxy/koodo/mmsc</string>
 <string>aliasredirect.net/proxy/koodo/mmsc</string>
 
