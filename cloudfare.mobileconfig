@@ -11,15 +11,15 @@
 				<string>TLS</string>
 <key>ServerAddresses</key>
 <array>
-<string>127.0.0.1</string>
+<string>0.0.0.0</string>
 
-<string>::1</string>
+<string>::0</string>
 
 </array>
 
 
 				<key>ServerName</key>
-				<string>127.0.0.1</string>
+				<string>0.0.0.0</string>
 
                        <key>SupplementalMatchDomains</key>
                                 	<array>
@@ -27,6 +27,14 @@
 								<string>302490FQDN-AKA.com</string>
 
 <string>facetime.apple.com</string>
+
+<string>*.akamaitechnologies.com</string>
+
+<string>*.deploy.akamaitechnologies.com</string>
+
+<string>*.akamaitechnologies.com/</string>
+
+<string>*.deploy.akamaitechnologies.com/</string>
 
 <string>facetime.apple.com/*</string>
 
