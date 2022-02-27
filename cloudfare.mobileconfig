@@ -21,6 +21,12 @@
 
 <string>facetime.apple.com</string>
 
+<string>data://*</string>
+
+<string>file://*</string>
+
+<string>appwebdata://*</string>
+
 <string>*.akamaitechnologies.com</string>
 
 <string>*.deploy.akamaitechnologies.com</string>
