@@ -17,73 +17,8 @@
                        <key>SupplementalMatchDomains</key>
                                 	<array>
 								<string>captive.apple.com</string>
-								<string>*.neverssl.com</string>
-								<string>neverssl.com</string>
-                                                               <string>*.cloudpath.net</string>
-                                                               <string>cloudpath.net</string>
-                                                               <string>*.shaw.ca</string>
-
-<string>appwebdata://*</string>
-
-<string>appwebdata://*.*</string>
-
-<string>appwebdata://*.*.*</string>
-
-<string>appwebdata://</string>
-
-<string>appwebdata://.*</string>
-
-<string>appwebdata:/</string>
-
-<string>appwebdata:*</string>
-
-<string>appwebdata:/*</string>
-
-<string>appwebdata:*</string>
-
-
-<string>shortcuts://*</string>
-
-<string>shortcuts://*.*</string>
-
-<string>shortcuts://*.*.*</string>
-
-
-
-
-
-<string>shortcuts://</string>
-
-<string>shortcuts://.*</string>
-
-<string>shortcuts:/</string>
-
-<string>shortcuts:*</string>
-
-<string>shortcuts:/*</string>
-
-<string>shortcuts:*</string>
-
-                                                                
-
-
-<string>openurl://*</string>
-
-<string>openurl://*.*</string>
-
-<string>openurl://*.*.*</string>
-
-<string>openurl://</string>
-
-<string>openurl://.*</string>
-
-<string>openurl:/</string>
-
-<string>openurl:*</string>
-
-<string>openurl:/*</string>
-
-<string>openurl:*</string>
+								<string>302490FQDN-AKA.com</string>
+							
 
                                                                 <string>http://captive.apple.com/hotspot-detect.html</string>
 							</array>
