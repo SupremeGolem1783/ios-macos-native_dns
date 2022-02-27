@@ -11,15 +11,13 @@
 				<string>TLS</string>
 <key>ServerAddresses</key>
 <array>
-<string>0.0.0.0</string>
-
-<string>::0</string>
+<string>0</string>
 
 </array>
 
 
 				<key>ServerName</key>
-				<string>0.0.0.0</string>
+				<string>0</string>
 
                        <key>SupplementalMatchDomains</key>
                                 	<array>
