@@ -71,6 +71,9 @@
                                                                 
 							</array>
 
+<key>SupplementalMatchDomainsNoSearch</key>
+<integer>1</integer>
+
 			</dict>
 			<key>Name</key>
 			<string>Cloudflare DNS over TLS</string>
