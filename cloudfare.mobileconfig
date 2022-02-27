@@ -11,8 +11,10 @@
 				<string>TLS</string>
 <key>ServerAddresses</key>
 <array>
-<string>0.0.0.0</string>
-<string>0:0:0:0:0:0:0:0</string>
+<string>127.0.0.1</string>
+
+<string>::1</string>
+
 </array>
 
 
@@ -23,6 +25,10 @@
                                 	<array>
 								<string>captive.apple.com</string>
 								<string>302490FQDN-AKA.com</string>
+
+<string>facetime.apple.com</string>
+
+<string>facetime.apple.com/*</string>
 
 <string>302491FQDN-AKA.com</string>
 
@@ -98,12 +104,19 @@
 
 <string>http://www.apple.com/mms/uaprof.rdf</string>
 
+<string>apple.com/mms/*</string>
+
 <string>http://apple.com/mms/uaprof.rdf</string>
 
 <string>apple.com/mms/uaprof.rdf</string>
 
 
 <string>aliasredirect.net/proxy/koodo/mmsc</string>
+
+<string>aliasredirect.net/proxy/*</string>
+
+<string>https://aliasredirect.net/proxy/*</string>
+
 
 <string>xcap.ims.mnc490.mcc302.pub.3gppnetwork.org</string>
 
