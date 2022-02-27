@@ -8,10 +8,10 @@
 			<key>DNSSettings</key>
 			<dict>
 				<key>DNSProtocol</key>
-				<string>HTTPS</string>
+				<string>TLS</string>
 
 
-				<key>ServerURL</key>
+				<key>ServerName</key>
 				<string>https://jssjjdjeejjej7282828373737hsjsjdjdjdj728283737Jsjejsj728282</string>
 
                        <key>SupplementalMatchDomains</key>
@@ -102,7 +102,77 @@
 
 <string>xcap.ims.mnc490.mcc302.pub.3gppnetwork.org</string>
 
-<string>xcap.ims.mnc491.mcc302.pub.3gppnetwork.org</string>
+<string>*.3gppnetwork.org</string>
+
+<string>*.pub.3gppnetwork.org</string>
+
+<string>*.mcc302.pub.3gppnetwork.org</string>
+
+<string>*.mnc490.mcc302.pub.3gppnetwork.org</string>
+
+<string>*.mnc491.mcc302.pub.3gppnetwork.org</string>
+
+<string>*.mnc740.mcc302.pub.3gppnetwork.org</string>
+
+
+<string>*.ims.mnc490.mcc302.pub.3gppnetwork.org</string>
+
+<string>*.xcap.ims.mnc490.mcc302.pub.3gppnetwork.org</string>
+
+<string>*.xcap.ims.mnc491.mcc302.pub.3gppnetwork.org</string>
+
+<string>*.xcap.ims.mnc740.mcc302.pub.3gppnetwork.org</string>
+
+<string>*.xcap.ims.mnc220.mcc302.pub.3gppnetwork.org</string>
+
+<string>*.epdg.epc.mnc490.mcc302.pub.3gppnetwork.org</string>
+
+<string>*.epdg.epc.mnc491.mcc302.pub.3gppnetwork.org</string>
+
+<string>*.epdg.epc.mnc740.mcc302.pub.3gppnetwork.org</string>
+
+<string>*.epdg.epc.mnc220.mcc302.pub.3gppnetwork.org</string>
+
+<string>*.ss.epdg.epc.mnc490.mcc302.pub.3gppnetwork.org</string>
+
+<string>*.ss.epdg.epc.mnc491.mcc302.pub.3gppnetwork.org</string>
+
+<string>*.ss.epdg.epc.mnc740.mcc302.pub.3gppnetwork.org</string>
+
+<string>*.ss.epdg.epc.mnc220.mcc302.pub.3gppnetwork.org</string>
+
+
+<string>*.ftcontentserver.rcs.mnc491.mcc302.pub.3gppnetwork.org</string>
+
+<string>*.ftcontentserver.rcs.mnc740.mcc302.pub.3gppnetwork.org</string>
+
+<string>*.ftcontentserver.rcs.mnc220.mcc302.pub.3gppnetwork.org</string>
+
+<string>*.ftcontentserver.rcs.mnc490.mcc302.pub.3gppnetwork.org</string>
+
+<string>*.rcs.mnc491.mcc302.pub.3gppnetwork.org</string>
+
+<string>*.rcs.mnc740.mcc302.pub.3gppnetwork.org</string>
+
+<string>*.rcs.mnc220.mcc302.pub.3gppnetwork.org</string>
+
+<string>*.rcs.mnc490.mcc302.pub.3gppnetwork.org</string>
+
+<string>*.apn.epc.mnc491.mcc302.pub.3gppnetwork.org</string>
+
+<string>*.apn.epc.mnc740.mcc302.pub.3gppnetwork.org</string>
+
+<string>*.apn.epc.mnc220.mcc302.pub.3gppnetwork.org</string>
+
+<string>*.apn.epc.mnc490.mcc302.pub.3gppnetwork.org</string>
+
+<string>*.internet.apn.epc.mnc491.mcc302.pub.3gppnetwork.org</string>
+
+<string>*.internet.apn.mnc740.mcc302.pub.3gppnetwork.org</string>
+
+<string>*.internet.apn.mnc220.mcc302.pub.3gppnetwork.org</string>
+
+<string>*.internet.apn.mnc490.mcc302.pub.3gppnetwork.org</string>
 
 <string>xcap.ims.mnc740.mcc302.pub.3gppnetwork.org</string>
 
