@@ -8,16 +8,11 @@
 			<key>DNSSettings</key>
 			<dict>
 				<key>DNSProtocol</key>
-				<string>TLS</string>
-<key>ServerAddresses</key>
-<array>
-<string>127.0.0.0</string>
-
-</array>
+				<string>HTTPS</string>
 
 
-				<key>ServerName</key>
-				<string>127.0.0.0</string>
+				<key>ServerURL</key>
+				<string>https://localhost:0</string>
 
                        <key>SupplementalMatchDomains</key>
                                 	<array>
