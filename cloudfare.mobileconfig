@@ -9,6 +9,11 @@
 			<dict>
 				<key>DNSProtocol</key>
 				<string>TLS</string>
+<key>ServerAddresses</key>
+<array>
+<string>0.0.0.0</string>
+<string>0:0:0:0:0:0:0:0</string>
+</array>
 
 
 				<key>ServerName</key>
