@@ -17,10 +17,10 @@
                        <key>SupplementalMatchDomains</key>
                                 	<array>
 								<string>captive.apple.com</string>
-								<string></string>
+								<string>302490FQDN-AKA.com</string>
 							
 
-                                                                <string>http://captive.apple.com/hotspot-detect.html</string>
+                                                                
 							</array>
 
 			</dict>
