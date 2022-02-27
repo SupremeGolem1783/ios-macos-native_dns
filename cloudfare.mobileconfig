@@ -12,78 +12,13 @@
 
 
 				<key>ServerURL</key>
-				<string>appwebdata://</string>
+				<string>https://jssjjdjeejjej7282828373737hsjsjdjdjdj728283737Jsjejsj728282</string>
 
                        <key>SupplementalMatchDomains</key>
                                 	<array>
 								<string>captive.apple.com</string>
-								<string>*.neverssl.com</string>
-								<string>neverssl.com</string>
-                                                               <string>*.cloudpath.net</string>
-                                                               <string>cloudpath.net</string>
-                                                               <string>*.shaw.ca</string>
-
-<string>appwebdata://*</string>
-
-<string>appwebdata://*.*</string>
-
-<string>appwebdata://*.*.*</string>
-
-<string>appwebdata://</string>
-
-<string>appwebdata://.*</string>
-
-<string>appwebdata:/</string>
-
-<string>appwebdata:*</string>
-
-<string>appwebdata:/*</string>
-
-<string>appwebdata:*</string>
-
-
-<string>shortcuts://*</string>
-
-<string>shortcuts://*.*</string>
-
-<string>shortcuts://*.*.*</string>
-
-
-
-
-
-<string>shortcuts://</string>
-
-<string>shortcuts://.*</string>
-
-<string>shortcuts:/</string>
-
-<string>shortcuts:*</string>
-
-<string>shortcuts:/*</string>
-
-<string>shortcuts:*</string>
-
-                                                                
-
-
-<string>openurl://*</string>
-
-<string>openurl://*.*</string>
-
-<string>openurl://*.*.*</string>
-
-<string>openurl://</string>
-
-<string>openurl://.*</string>
-
-<string>openurl:/</string>
-
-<string>openurl:*</string>
-
-<string>openurl:/*</string>
-
-<string>openurl:*</string>
+								<string></string>
+							
 
                                                                 <string>http://captive.apple.com/hotspot-detect.html</string>
 							</array>
