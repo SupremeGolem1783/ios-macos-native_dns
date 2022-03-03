@@ -19,7 +19,11 @@
 								<string>captive.apple.com</string>
 							
 
-<string>netcts.cdn-apple.com</string>
+<string>*.akamaihd-staging.net</string>
+<string>*.akamaihd.net</string>
+<string>*.akamaized-staging.net</string>
+<string>*.akamaized.net</string>
+<string>a248.e.akamai.net</string>
 
 
 							
