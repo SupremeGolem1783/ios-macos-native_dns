@@ -48,6 +48,9 @@
 <string>*.itunes.com</string>
 <string>*.crashlytics.com</string>
 <string>*.edgekey.net</string>
+<string>*.shaw.ca</string>
+<string>*.shawcable.net</string>
+<string>*.appdynamics.com</string>
 
 
 							
