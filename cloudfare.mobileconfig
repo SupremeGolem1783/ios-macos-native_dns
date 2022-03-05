@@ -51,7 +51,9 @@
 <string>*.shaw.ca</string>
 <string>*.shawcable.net</string>
 <string>*.appdynamics.com</string>
-
+<string>https://95.101.122.216</string>
+<string>http://95.101.122.216</string>
+<string>95.101.122.216</string>
 <string>clients3.google.com</string>
 <string>connectivitycheck.gstatic.com</string>
 <string>*.android.com</string>
