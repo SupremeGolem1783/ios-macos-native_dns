@@ -52,6 +52,22 @@
 <string>*.shawcable.net</string>
 <string>*.appdynamics.com</string>
 
+<string>clients3.google.com</string>
+<string>connectivitycheck.gstatic.com</string>
+<string>*.android.com</string>
+<string>*.miui.com</string>
+<string>*.hicloud.com</string>
+<string>*.googleapis.cn</string>
+
+<string>msftncsi.com</string>
+<string>msftconnecttest.com</string>
+<string>*.opendns.com</string>
+
+<string>network-test.debian.org</string>
+<string>nmcheck.gnome.org</string>
+<string>archlinux.org</string>
+<string>capnet.elementary.io</string>
+
 
 							
 
