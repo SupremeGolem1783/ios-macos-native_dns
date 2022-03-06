@@ -8,7 +8,7 @@
 			<key>DNSSettings</key>
 			<dict>
 				<key>DNSProtocol</key>
-				<string>TLS</string>
+				<string>HTTPS</string>
 
 
 				<key>ServerName</key>
@@ -16,8 +16,6 @@
 
                        <key>SupplementalMatchDomains</key>
                                 	<array>
-								<string>captive.apple.com</string>
-<string>*.apple.com</string>
 <string>*.icloud.com</string>
 <string>*.me.com</string>
 <string>*.icloud-content.com</string>
@@ -25,15 +23,12 @@
 <string>*.apple.com.edgekey.net</string>
 <string>*.aaplimg.com</string>
 <string>*.mzstatic.com</string>
-<string>*apple.com.akadns.net</string>
-<string>*.cdn-apple.com</string>							
-<string>netcts.cdn-apple.com</string>
+<string>*.akadns.net</string>
 <string>*.akamaihd-staging.net</string>
 <string>*.akamaihd.net</string>
 <string>*.akamaized-staging.net</string>
 <string>*.akamaized.net</string>
 <string>a248.e.akamai.net</string>
-<string>apple.com</string>
 <string>icloud.com</string>
 <string>*.akamaiedge.net</string>
 <string>*.akamai.net</string>
