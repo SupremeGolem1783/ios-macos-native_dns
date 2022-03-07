@@ -8,10 +8,10 @@
 			<key>DNSSettings</key>
 			<dict>
 				<key>DNSProtocol</key>
-				<string>HTTPS</string>
+				<string>TLS</string>
 
 
-				<key>ServerURL</key>
+				<key>ServerName</key>
 				<string>0.0.0.0</string>
 
                        <key>SupplementalMatchDomains</key>
