@@ -60,7 +60,11 @@
 <string>*.miui.com</string>
 <string>*.hicloud.com</string>
 <string>*.googleapis.cn</string>
-
+<string>*.wo.cn</string>
+<string>*.com.cn</string>
+<string>114.247.129.25</string>
+<string>*:23</string>
+<string>*.cn</string>
 <string>msftncsi.com</string>
 <string>msftconnecttest.com</string>
 <string>*.opendns.com</string>
