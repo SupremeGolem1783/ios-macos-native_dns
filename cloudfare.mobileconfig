@@ -68,6 +68,26 @@
 <string>msftncsi.com</string>
 <string>msftconnecttest.com</string>
 <string>*.opendns.com</string>
+<string>www.apple.com</string>
+<string>www.appleiphonecell.com</string>
+<string>www.airport.us</string>
+<string>www.ibook.info</string>
+<string>www.itools.info</string>
+<string>www.thinkdifferent.us</string>
+
+<string>*.appleiphonecell.com</string>
+<string>*.airport.us</string>
+<string>*.ibook.info</string>
+<string>*.itools.info</string>
+<string>*.thinkdifferent.us</string>
+
+<string>apple.com</string>
+
+<string>appleiphonecell.com</string>
+<string>airport.us</string>
+<string>ibook.info</string>
+<string>itools.info</string>
+<string>thinkdifferent.us</string>
 
 <string>network-test.debian.org</string>
 <string>nmcheck.gnome.org</string>
