@@ -8,66 +8,16 @@
 			<key>DNSSettings</key>
 			<dict>
 				<key>DNSProtocol</key>
-				<string>TLS</string>
+				<string>HTTPS</string>
 
 
-				<key>ServerName</key>
+				<key>ServerURL</key>
 				<string>0.0.0.0</string>
 
                        <key>SupplementalMatchDomains</key>
                                 	<array>
-								<string>captive.apple.com</string>
-<string>*.apple.com</string>
-<string>*.icloud.com</string>
-<string>*.me.com</string>
-<string>*.icloud-content.com</string>
-<string>*.apple-dns.net</string>
-<string>*.apple.com.edgekey.net</string>
-<string>*.aaplimg.com</string>
-<string>*.mzstatic.com</string>
-<string>*apple.com.akadns.net</string>
-<string>*.cdn-apple.com</string>							
+								<string>captive.apple.com</string>					
 <string>netcts.cdn-apple.com</string>
-<string>*.akamaihd-staging.net</string>
-<string>*.akamaihd.net</string>
-<string>*.akamaized-staging.net</string>
-<string>*.akamaized.net</string>
-<string>a248.e.akamai.net</string>
-<string>apple.com</string>
-<string>icloud.com</string>
-<string>*.akamaiedge.net</string>
-<string>*.akamai.net</string>
-<string>*.akamaitechnologies</string>
-<string>*.akadns.net</string>
-<string>*.2o7.net</string>
-<string>*.aaplimg.com</string>
-<string>*.amazonaws.com</string>
-<string>*.mzstatic.com</string>
-<string>*.googleapis.com</string>
-<string>*.itunes-nocookie.com</string>
-<string>*.itunes.com</string>
-<string>*.crashlytics.com</string>
-<string>*.edgekey.net</string>
-<string>*.shaw.ca</string>
-<string>*.shawcable.net</string>
-<string>*.appdynamics.com</string>
-<string>https://95.101.122.216</string>
-<string>http://95.101.122.216</string>
-<string>95.101.122.216</string>
-<string>clients3.google.com</string>
-<string>connectivitycheck.gstatic.com</string>
-<string>*.android.com</string>
-<string>*.miui.com</string>
-<string>*.hicloud.com</string>
-<string>*.googleapis.cn</string>
-<string>*.wo.cn</string>
-<string>*.com.cn</string>
-<string>114.247.129.25</string>
-<string>*:23</string>
-<string>*.cn</string>
-<string>msftncsi.com</string>
-<string>msftconnecttest.com</string>
-<string>*.opendns.com</string>
 <string>www.apple.com</string>
 <string>www.appleiphonecell.com</string>
 <string>www.airport.us</string>
@@ -89,10 +39,6 @@
 <string>itools.info</string>
 <string>thinkdifferent.us</string>
 
-<string>network-test.debian.org</string>
-<string>nmcheck.gnome.org</string>
-<string>archlinux.org</string>
-<string>capnet.elementary.io</string>
 
 
 							
