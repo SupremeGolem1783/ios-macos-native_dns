@@ -24,6 +24,9 @@
 <string>*.shawmobile.ca</string>
 <string>*.freedommobile.ca</string>
 <string>*.frdm.ca</string>
+<string>*.telusmobility.com</string>
+<string>*.koodomobile.com</string>
+<string>*.microsoftonline.com</string>
 
 <string>https://95.101.122.216</string>
 <string>http://95.101.122.216</string>
