@@ -27,6 +27,9 @@
 
 <string>*.bingbot.com</string>
 <string>*.in-addr.arpa</string>
+<string>*.arpa</string>
+<string>*.*.arpa</string>
+
 
 							
 
