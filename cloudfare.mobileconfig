@@ -17,22 +17,13 @@
                        <key>SupplementalMatchDomains</key>
                                 	<array>
 							<string>*.shaw.ca</string>
-<string>*.shawcable.net</string>
-<string>*.appdynamics.com</string>
-<string>*.sjrb.ca</string>
-<string>*.shawcentral.ca</string>
-<string>*.shawmobile.ca</string>
-<string>*.freedommobile.ca</string>
-<string>*.frdm.ca</string>
-<string>*.telusmobility.com</string>
-<string>*.koodomobile.com</string>
-<string>*.microsoftonline.com</string>
+<string>*.applebot.apple.com</string>
 
-<string>https://95.101.122.216</string>
-<string>http://95.101.122.216</string>
-<string>*.wo.cn</string>
-<string>*.com.cn</string>
+<string>*.googlebot.com</string>
 
+<string>*.msnbot.com</string>
+
+<string>*.bingbot.com</string>
 
 							
 
