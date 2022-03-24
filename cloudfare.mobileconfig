@@ -8,18 +8,28 @@
 			<key>DNSSettings</key>
 			<dict>
 				<key>DNSProtocol</key>
-				<string>TLS</string>
+				<string>HTTPS</string>
 
 
-				<key>ServerName</key>
-				<string>127.0.0.1</string>
+				<key>ServerURL</key>
+				<string>https://hdhdhdhdhdhdhdhdhdhhdhsjehdheh718283737727172747737373717273737hshhehedhehehj72727372717737373jdjjehedjjeUhshdhddj727273737273737jsjdjeejej.com/jejdhdjdjejiqiwiei</string>
 
                        <key>SupplementalMatchDomains</key>
                                 	<array>
 							<string>*.shaw.ca</string>
 <string>*.applebot.apple.com</string>
 
+<string>applebot.apple.com</string>
+
 <string>*.googlebot.com</string>
+
+<string>googlebot.com</string>
+
+<string>msn.com</string>
+
+<string>msnbot.com</string>
+
+<string>bingbot.com</string>
 
 <string>*.msnbot.com</string>
 
@@ -29,7 +39,41 @@
 <string>*.in-addr.arpa</string>
 <string>*.arpa</string>
 <string>*.*.arpa</string>
-
+<string>*.amazonadbot.com</string>
+<string>*.siri.com</string>
+<string>*.ahrefs.con</string>
+<string>*.shaw.ca</string>
+<string>*.captive.apple.com</string>
+<string>*.alexa.com</string>
+<string>*.spam.co</string>
+<string>*.siri.apple.com</string>
+<string>*.quadranet.com</string>
+<string>*.yandex.com</string>
+<string>*.phobos.apple.com</string>
+<string>*.airtelbroadband.in</string>
+<string>*.cdn77.com</string>
+<string>*.patreon.com</string>
+<string>*.pinterest.com</string>
+<string>*.searchmarquis.com</string>
+<string>*.cox.net</string>
+<string>*.amazonaws.com</string>
+<string>searchmarquis.com</string>
+<string>*.fbsv.net</string>
+<string>*.petalsearch.com</string>
+<string>*.aspiegel.com</string>
+<string>*.akamaitechnologies.com</string>
+<string>*.bosch.com</string>
+<string>*.doh.apple.com</string>
+<string>*.vnpt.vn</string>
+<string>captive.apple.com</string>
+<string>*.linode.com</string>
+<string>netcts.cdn-apple.com</string>
+<string>*.mail.ru</string>
+<string>*.*.ru</string>
+<string>*.ru</string>
+<string>*.netcts.cdn-apple.com</string>
+<string>*.netsystemsresearch.com</string>
+<string>*.appdynamics.com</string>
 
 							
 
